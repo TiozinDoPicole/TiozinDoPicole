@@ -20,7 +20,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSQTE1KzNKdDRRUJiTCF-GL8XjqRnTEUkmmg&s" width="97">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCS-ZoynohCU1vRqaRLAaLR3LyHJnStZcwbA&s" width="97">
 </p>
-<p>Hollow Knight &nbsp &nbsp &nbsp &nbsp &nbsp Xadrez &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp CSGO &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Volei &nbsp &nbsp &nbsp &nbsp &nbsp Solo Leveling</p>
+<p>Hollow Knight &nbsp &nbsp &nbsp &nbsp &nbsp Xadrez &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp CSGO &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Volei &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Solo Leveling</p>
 <br>
 
 🔨 **Ferramentas de desenvolvimento**
