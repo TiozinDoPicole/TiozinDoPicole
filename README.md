@@ -33,8 +33,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiozinDoPicole&theme=dracula&show_icons=true" />
 </a>
 
-## Minhas redes
+## Meus perfis
 
-[![Linkedin](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-f%C3%A9-alves-92414321b/)](https://www.linkedin.com/in/gustavo-f%C3%A9-alves-92414321b/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-f%C3%A9-alves-92414321b/)](https://www.linkedin.com/in/gustavo-f%C3%A9-alves-92414321b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gustavo.fe.alves2016@gmail.com)](mailto:gustavo.fe.alves2016@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TiozinDoPicole)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_gustavofe_/)](https://www.instagram.com/_gustavofe_/)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/TiozinDoPicole)](https://steamcommunity.com/id/TiozinDoPicole)
