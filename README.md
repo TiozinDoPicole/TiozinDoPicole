@@ -18,7 +18,7 @@
   <a href="//www.chess.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_O--z05D11ER-KMzDmkN-K5sivxtbQT_L2w&s" width="97">
   <a href="//store.steampowered.com/app/730/CounterStrike_2/?l=portuguese"><img src="https://seeklogo.com/images/C/csgo-logo-CAA0A4D48A-seeklogo.com.png" width="100">
   <a href="//animesonlinecc.to/anime/haikyuu-hd/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSQTE1KzNKdDRRUJiTCF-GL8XjqRnTEUkmmg&s" width="97">
-  <a href="//mangananquim.site/ler-manga/solo-leveling/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCS-ZoynohCU1vRqaRLAaLR3LyHJnStZcwbA&s" width="97">
+  <a href="//mangananquim.site/ler-manga/solo-leveling/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCS-ZoynohCU1vRqaRLAaLR3LyHJnStZcwbA&s" width="97">
 </p>
 
 ## 🔨 **Ferramentas de desenvolvimento**
