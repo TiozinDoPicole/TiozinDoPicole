@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/7b565de4-a5fa-47f9-a419-9b31b790dac6" width="50%">
 </p>
 
@@ -10,8 +10,11 @@
 - 🌱 Aprendendo mais sobre C, Java, Python, WEB(HTML, CSS, javascript).
 - 🔧 Possuo experiência em suporte e manutenção de computadores pelo Técnico em Informática.
 
-## 💻 **Aplicações e dados**
+<p align="center">
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31u27sk6i7eix5yhq3uillzv5lj4&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u27sk6i7eix5yhq3uillzv5lj4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" width="300"></a>
 
+
+## 💻 **Aplicações e dados**
 
 [![Skills](https://skillicons.dev/icons?i=java,python,c,html,css,js&theme=light)](https://skillicons.dev)
 
@@ -45,6 +48,6 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/TiozinDoPicole)](https://steamcommunity.com/id/TiozinDoPicole)
 [![Chess](https://img.shields.io/badge/Chess.com-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.chess.com/member/tiozindopicole)
 
-<p align="left">
+<p align="center">
   <img src="https://img.wattpad.com/ca2f5ad9804d90c796e83ad5e96433f24f77e8d2/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f692d413841354c36736872786e773d3d2d313330383632393932332e313733643064653432636662373339613835393634363136313339302e676966" width="45%">
 </p>
