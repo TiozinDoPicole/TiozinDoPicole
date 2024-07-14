@@ -5,7 +5,7 @@
 ## Sobre mim
 
 - 📚 Formado em Técnico em Informática pelo Instituto Federal da Bahia (IFBA).
-- 🎓 Graduando em Ciência da Computação na Universidade Federal de Jataí (UFJ).
+- 🎓 Bacharelando em Ciência da Computação na Universidade Federal de Jataí (UFJ).
 - 💼 Procurando estágio/emprego na área de programação para ampliar conhecimentos e experiência.
 - 🌱 Aprendendo mais sobre C, Java, Python, WEB(HTML, CSS, javascript).
 - 🔧 Possuo experiência em suporte e manutenção de computadores pelo Técnico em Informática.
