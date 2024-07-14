@@ -46,8 +46,6 @@
 </a>
 
 
-![snake gif](https://github.com/TiozinDoPicole/TiozinDoPicole/blob/output/github-contribution-grid-snake.svg)
-
 
 ## Meus perfis
 
