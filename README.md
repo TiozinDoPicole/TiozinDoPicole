@@ -1,4 +1,9 @@
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&letterSpacing=3px&pause=1000&random=true&width=435&separator=%3C&lines=BEM+VINDO(A)+AO+MEU+PERFIL!!" alt="Typing SVG" /></a>
+</p>
+
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/7b565de4-a5fa-47f9-a419-9b31b790dac6" width="50%">
 </p>
 
