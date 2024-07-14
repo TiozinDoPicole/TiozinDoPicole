@@ -6,24 +6,22 @@
 - 🌱 Aprendendo mais sobre C, Java, Python, WEB(HTML, CSS, javascript).
 - 🔧 Possuo experiência em suporte e manutenção de computadores pelo Técnico em Informática.
 
-## Minhas Skills
-
-💻 **Aplicações e dados**
+## 💻 **Aplicações e dados**
 
 [![Skills](https://skillicons.dev/icons?i=java,python,c,html,css,js&theme=light)](https://skillicons.dev)
 
-😃 **Gostos e hobbys**
-<p float="left">
-  <img src="https://images.squarespace-cdn.com/content/v1/606d159a953867291018f801/1619987722169-VV6ZASHHZNRBJW9X0PLK/Key_Art_02_layeredjpg.jpg?format=1500w" width="100"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_O--z05D11ER-KMzDmkN-K5sivxtbQT_L2w&s" width="97">
-  <img src="https://seeklogo.com/images/C/csgo-logo-CAA0A4D48A-seeklogo.com.png" width="100">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSQTE1KzNKdDRRUJiTCF-GL8XjqRnTEUkmmg&s" width="97">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCS-ZoynohCU1vRqaRLAaLR3LyHJnStZcwbA&s" width="97">
-</p>
-<p>Hollow Knight &nbsp &nbsp &nbsp &nbsp &nbsp Xadrez &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp CSGO &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Volei &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Solo Leveling</p>
-<br>
+## 😃 **Gostos e hobbys**
 
-🔨 **Ferramentas de desenvolvimento**
+📎 As imagens possuem links 📎
+<p float="left">
+  <a href="//www.hollowknight.com/"><img src="https://images.squarespace-cdn.com/content/v1/606d159a953867291018f801/1619987722169-VV6ZASHHZNRBJW9X0PLK/Key_Art_02_layeredjpg.jpg?format=1500w" width="100"/>
+  <a href="//www.chess.com/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_O--z05D11ER-KMzDmkN-K5sivxtbQT_L2w&s" width="97">
+  <a href="//store.steampowered.com/app/730/CounterStrike_2/?l=portuguese"><img src="https://seeklogo.com/images/C/csgo-logo-CAA0A4D48A-seeklogo.com.png" width="100">
+  <a href="//animesonlinecc.to/anime/haikyuu-hd/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSQTE1KzNKdDRRUJiTCF-GL8XjqRnTEUkmmg&s" width="97">
+  <a href="//mangananquim.site/ler-manga/solo-leveling/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCS-ZoynohCU1vRqaRLAaLR3LyHJnStZcwbA&s" width="97">
+</p>
+
+## 🔨 **Ferramentas de desenvolvimento**
 
 [![VSCode](https://skillicons.dev/icons?i=visualstudio,eclipse&theme=light)](https://skillicons.dev)
 
@@ -40,3 +38,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TiozinDoPicole)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_gustavofe_/)](https://www.instagram.com/_gustavofe_/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&link=https://steamcommunity.com/id/TiozinDoPicole)](https://steamcommunity.com/id/TiozinDoPicole)
+[![Chess](https://img.shields.io/badge/Chess.com-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.chess.com/member/tiozindopicole)
