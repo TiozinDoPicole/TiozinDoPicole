@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/7b565de4-a5fa-47f9-a419-9b31b790dac6" width="50%" align="justify">
 </p>
 
-## Sobre mim
+## ☝🤓 Sobre mim
 
 - 📚 Formado em Técnico em Informática pelo Instituto Federal da Bahia (IFBA).
 - 🎓 Bacharelando em Ciência da Computação na Universidade Federal de Jataí (UFJ).
