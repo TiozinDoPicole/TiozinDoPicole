@@ -42,7 +42,10 @@
 
 <a href="https://github.com/TiozinDoPicole" title="Perfil do Gustavo Fé">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiozinDoPicole&theme=tokyonight&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiozinDoPicole&layout=compact&langs_count=7&theme=radical"/>
 </a>
+
+![Snake animation](https://github.com/TiozinDoPicole/TiozinDoPicole/blob/output/github-contribution-grid-snake.svg)
 
 ## Meus perfis
 
