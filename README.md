@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7b565de4-a5fa-47f9-a419-9b31b790dac6" width="50%">
+  <img src="https://github.com/user-attachments/assets/7b565de4-a5fa-47f9-a419-9b31b790dac6" width="50%"/>
 </p>
 
 ## ☝🤓 Sobre mim
@@ -16,7 +16,7 @@
 - 🔧 Possuo experiência em suporte e manutenção de computadores pelo Técnico em Informática.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c067f7af-284e-49c2-b76c-d4d368e4b027" width="45%">
+<img src="https://github.com/user-attachments/assets/c067f7af-284e-49c2-b76c-d4d368e4b027" width="50%">
 
 
 
