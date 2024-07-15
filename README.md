@@ -16,7 +16,8 @@
 - 🔧 Possuo experiência em suporte e manutenção de computadores pelo Técnico em Informática.
 
 <p align="center">
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31u27sk6i7eix5yhq3uillzv5lj4&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31u27sk6i7eix5yhq3uillzv5lj4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" width="300"></a>
+<img src="https://github.com/user-attachments/assets/c067f7af-284e-49c2-b76c-d4d368e4b027" width="45%">
+
 
 
 ## 💻 **Aplicações e dados**
